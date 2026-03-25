@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /Arkptz/
+Disallow: /
+
+Host: https://arkptz.github.io
+Sitemap: https://arkptz.github.io/Arkptz/sitemap.xml
