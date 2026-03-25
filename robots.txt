@@ -1,4 +1,5 @@
 User-agent: *
+Allow: /yandex_e75bf73045a01ec6.html
 Allow: /Arkptz/
 Disallow: /
 
