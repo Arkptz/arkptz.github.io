@@ -1,6 +1,5 @@
 User-agent: *
-Allow: /yandex_e75bf73045a01ec6.html
-Allow: /yandex_8d4a400875f45e46.html
+Allow: /
 Allow: /Arkptz/
 Disallow: /
 
